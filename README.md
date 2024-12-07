@@ -6,9 +6,9 @@ Włącz uruchamianie niepodpisanych skryptów:
 
 ![image](https://github.com/user-attachments/assets/76cc319f-60cc-4508-8cd6-108d88ddd21e)
 
-Uruchom Terminal w trybie Administratora, zmień katalog do tego, gdzie rozpakowałeś skrypty i urucom `.\clean.ps1`.
+Uruchom Terminal w trybie Administratora, zmień katalog do tego, gdzie rozpakowałeś skrypty i urucom `.\clean.ps1`. Twój Terminal może wyglądać inaczej.
 
-
+![image](https://github.com/user-attachments/assets/66374b6c-983b-450a-9889-2608e6722511)
 
 Potem restart i Windows powinien działać szybciej.
 
